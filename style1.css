@@ -32,7 +32,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: black;
+    color: rgb(16, 4, 4);
 }
 
 main {
@@ -46,7 +46,7 @@ h1 {
 
 p {
     font-size: 14px;
-    color: gray;
+    color: rgb(13, 1, 1);
 }
 
 .buttons {
@@ -55,7 +55,7 @@ p {
 
 .get-started {
     background-color: #007BFF;
-    color: white;
+    color: rgb(216, 211, 211);
     border: none;
     padding: 10px 20px;
     margin-right: 10px;
@@ -70,3 +70,13 @@ p {
     padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;}
+    .home {
+        background-color: #007BFF;
+        color: rgb(216, 211, 211);
+        border: none;
+        padding: 10px 20px;
+        margin-right: 10px;
+        border-radius: 5px;
+        cursor: pointer;
+   
+    }
