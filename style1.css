@@ -10,6 +10,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
+    color: #0d4d91;
 }
 
 .logo {
@@ -54,7 +55,7 @@ p {
 }
 
 .get-started {
-    background-color: #007BFF;
+    background-color: #03101e;
     color: rgb(216, 211, 211);
     border: none;
     padding: 10px 20px;
@@ -80,3 +81,29 @@ p {
         cursor: pointer;
    
     }
+    section{
+        background-color: white;
+        color: #007BFF;
+        border: 1px solid #007BFF;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;}
+        main{
+            background-color: #007BFF;
+    color: rgb(216, 211, 211);
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+        div{
+            font-size: 14px;
+            color: rgb(13, 1, 1);
+        }
+        title{
+            font-size: 18px;
+            font-weight: bold;
+            color: #007BFF;
+            margin-left: 20px;
+        }
