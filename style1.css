@@ -3,6 +3,9 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
+background-image:url(picss/gge.jpeg) ;
+background-size: 2000px;
+
 }
 
 header {
@@ -38,16 +41,19 @@ nav ul li a {
 
 main {
     margin-top: 100px;
+
 }
 
 h1 {
     font-size: 28px;
     font-weight: bold;
+    color: #3565e7;
 }
 
 p {
-    font-size: 14px;
-    color: rgb(13, 1, 1);
+    font-size: 20px;
+    color: rgb(15, 1, 1);
+    font-weight: 500;
 }
 
 .buttons {
@@ -55,8 +61,8 @@ p {
 }
 
 .get-started {
-    background-color: #03101e;
-    color: rgb(216, 211, 211);
+    background-color: #106fd5;
+    color: rgb(254, 254, 254);
     border: none;
     padding: 10px 20px;
     margin-right: 10px;
@@ -82,20 +88,23 @@ p {
    
     }
     section{
-        background-color: white;
+        background-color: rgb(255, 255, 255);
         color: #007BFF;
-        border: 1px solid #007BFF;
+        border: 0px solid #007BFF;
         padding: 10px 20px;
-        border-radius: 5px;
-        cursor: pointer;}
+        border-radius:1000px;
+        cursor: pointer;
+background: transparent;
+    }
         main{
-            background-color: #007BFF;
+            background-color: #f7f7f7;
     color: rgb(216, 211, 211);
     border: none;
     padding: 10px 20px;
     margin-right: 10px;
     border-radius: 5px;
     cursor: pointer;
+background: transparent;
 }
         div{
             font-size: 14px;
@@ -106,4 +115,7 @@ p {
             font-weight: bold;
             color: #007BFF;
             margin-left: 20px;
+        }
+        form{
+color: #106fd5;
         }
