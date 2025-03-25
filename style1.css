@@ -89,7 +89,7 @@ p {
     }
     section{
         background-color: rgb(255, 255, 255);
-        color: #007BFF;
+        color: #072341;
         border: 0px solid #007BFF;
         padding: 10px 20px;
         border-radius:1000px;
@@ -113,7 +113,7 @@ background: transparent;
         title{
             font-size: 18px;
             font-weight: bold;
-            color: #007BFF;
+            color: #120fbe;
             margin-left: 20px;
         }
         form{
